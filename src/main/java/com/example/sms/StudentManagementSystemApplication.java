@@ -7,7 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class StudentManagementSystemApplication {
 
 	public static void main(String[] args) {
-		System.out.println("Hello This is my first project");
 		SpringApplication.run(StudentManagementSystemApplication.class, args);
 	}
 
