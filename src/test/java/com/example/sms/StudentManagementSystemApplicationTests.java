@@ -9,5 +9,9 @@ class StudentManagementSystemApplicationTests {
 	@Test
 	void contextLoads() {
 	}
+	
+	@Test
+	void testMainFunction() {
+	}
 
 }
